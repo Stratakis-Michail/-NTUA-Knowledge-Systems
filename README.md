@@ -1,1 +1,1 @@
-# -NTUA-Knowledge-Systems
+# NTUA-Knowledge-Systems
